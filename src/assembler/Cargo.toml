@@ -1,0 +1,8 @@
+[package]
+name = "osl-assembler"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "oslasm"
+path = "src/main.rs"

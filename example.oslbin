@@ -1,0 +1,4 @@
+start:
+    addi r1, r0, 42
+    syscall r1
+    ret
